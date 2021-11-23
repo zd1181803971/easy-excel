@@ -35,7 +35,7 @@ import java.io.IOException;
  * @Date 2021/11/22 21:48
  */
 @Controller
-public class ExcelPoiTest {
+public class ExcelPoiWriteTest {
 
     private static final String PATH = "E:\\JAVA\\easy-excel\\excel\\";
 
